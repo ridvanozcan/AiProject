@@ -180,3 +180,60 @@ Probably you have to increase the **DATA PER CLASS** in your dataset, a good num
 Another parameter that affects hugely the training is the **EPOCHS**, try to at least 50 epochs if you are not satisfied with the results.
 
 
+### - Literature Review
+Abebech Jenber Belay, Ayodeji Olalekan Salau,Minale Ashagrie, Melaku Bitew Haile. "Development of a chickpea disease detection and classification model using deep learning", Informatics in Medicine Unlocked, 2022
+
+Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton (2012). ImageNet classification with deep 	convolutional neural networks, 84–90
+
+Brown, B. (2007). Working the problems of tourism. Annals of Tourism Research, 34 (2), 364-383.
+Bulent B., Batuhan K., Furkan O., (2020). A Deep learning integrated mobile application for historic landmark recognition: A case study of Istanbul 38-50.
+
+Cheng, Z., Shen, J. (2016). On very large scale test collection for landmark image search benchmarking. 	Signal Processing, 124, 13–26.
+
+Christian S., Wei L.,  Pierre S., Scott R., Dragomir A., Dumitru E., Vincent V., Andrew R., Yangqing J. (2014). Going deeper with convolutions, 1409.4842v1CoreML Framework, (2018). CoreML Framework Overview, https://www.netguru.com/blog/coreml-vs-tensorflow-lite-mobile [Accessed on 19 December 2018].
+
+Deng, J., Berg, A., Satheesh, S., Su, H., Khosla, A., Fei-Fei, 	L. (2012). ImageNet Large Scale Visual Recognition Competition (ILSVRC2012). http://www.imagenet.org/challenges/LSVRC/ 2012/.
+
+Dizaji, Kamran Ghasedi. "Efficient Learning Framework for Training Deep Learning Models with Limited Supervision", University of Pittsburgh, 2021
+
+Fakhri lahmood HAMEED, Omar DAKKAK. “Brain Tumor Detection and Classification Using Convolutional Neural Network (CNN)", 2022 International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA), 2022
+
+Hays, J., Efros, A.A. (2008). IM2GPS: Estimating geographic information from a single image. In 26th 	 IEEE Conference on Computer Vision and Pattern 	 Recognition (CVPR).
+
+Huei-Fang Yang, Bo-Yao Lin, Kuang-Yu Chang, Chu-Song Chen. "Joint Estimation of Age and Expression by Combining Scattering and Convolutional Networks", ACM Transactions on Multimedia Computing, Communications, and Applications, 2018 
+
+Jing Zhang, Chao Wang, Xianbo Zhang, Zezhou Li. "Multi-Attention Integrated Convolutional Network for Anomaly Detection of Time Series", 2022 14th International Conference on Computer and Automation Engineering (ICCAE), 2022
+
+Karthik Ananth Mani, Eduard Belausov, Einat Zelinger, Guy Mechrez. “Durable superhydrophobic coating with a self-replacing mechanism of urface roughness based on multiple Pickering emulsion templating", Colloids and Surfaces A: Physicochemical 	and Engineering Aspects, 2022
+
+M. Sarıgül, B.M. Ozyildirim, M. Avci. “Differential convolutional neural network", Neural Networks, 2019
+
+M. Sreeraj, Jestin Joy, Manu Jose, Meenu Varghese, T.J. Rejoice. "Comparative analysis of Machine Learning approaches for early stage Cervical Spondylosis detection", Journal of King Saud University - Computer and Information Sciences, 2020
+
+Myneni Madhu Bala, Haritha Akkineni, Siva Abhishek Sirivella, Siddharth Ambati, Krishna Vamshi Potharaju Venkata Sai. "Implementation of an adaptive E-learning platform with facial emotion recognition”, Microsystem Technologies, 2023
+
+Nawaz, M., Sewissy, A.A., Soliman, T.H.A. (2018).  Multiclass breast cancer classification using deep  learning convolutional neural network. International  Journal of Advanced Computer Science and Applications, 9 (6), 316–332
+
+
+Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause et al. "ImageNet Large Scale Visual Recognition Challenge", International Journal of  Computer Vision, 2015
+
+Parkhi, O.M., Vedaldi, A., Zisserman, A. (2015). Deep face recognition. In Proceedings of the British Machine Vision Conference 2015, pp. 41.1–41.12.
+
+Richards, G. (2018). Cultural tourism: A review of recent research and trends. Journal of Hospitality and Tourism  Management, 36, 12–21.
+
+Risa Karakida Kawaguchi, Ziqi Tang, Stephan Fischer, Chandana Rajesh, Rohit Tripathy, Peter K. Koo, Jesse Gillis. "Learning single-cell chromatin accessibility profiles using meta-analytic marker genes", Cold Spring Harbor Laboratory, 2022
+
+Shahab Aslani, Michael Dayan, Vittorio Murino, Diego Sona. "Chapter 13 Deep 2D Encoder- Decoder Convolutional Neural Network for Multiple 	 Sclerosis Lesion Segmentation in Brain MRI", Springer  Nature, 2019
+
+Simonyan, K., Zisserman, A. (2014). Very deep  convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556.
+
+Tao Dai, Jeya Maria Jose, Vishal Patel, Sarah Marie Jordaan. "The Life Cycle Land Use of Natural Gas-Fired Electricity in the US Western Interconnection”, Environmental Science: Advances, 2023
+
+UNESCO, (2006). Cities Named '2010 European Capital of 	                     Culture' include World Heritage sites. https://whc.unesco.org/en/news/248/ [Accessed on 12 	September 2019].
+
+Zhou, B., Lapedriza, A., Khosla, A., Oliva, A., Torralba, A. (2018). Places: A 10 million image database for scene recognition. IEEE Transactions on Pattern Analysis and Machine Intelligence, 40 (6), 1452–1464.
+
+Wasay, Abdul. "Computation-Cautious Machine Learning Systems.", Harvard University, 2021
+
+Weyand, T., Leibe, B. (2015). Visual landmark recognition from Internet photo collections: A largescale evaluation. Computer Vision and Image Understanding, 135, 1–15.
+
