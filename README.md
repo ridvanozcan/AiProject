@@ -42,7 +42,7 @@ If you need more data for your project you can also add the followings dataset:
 !pip install roboflow
 
 from roboflow import Roboflow
-rf = Roboflow(api_key="H9MQyQryaXqFjWYBcfFV")
+rf = Roboflow(api_key="")
 project = rf.workspace("ridvan").project("istanbul")
 dataset = project.version(1).download("voc")
 ```
